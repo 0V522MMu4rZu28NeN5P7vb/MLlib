@@ -4,5 +4,5 @@
 记录一些方法
 # NLP
 在文字语言的运用
-1.gensim.models.keyedvectors
+1.gensim.models.keyedvectors  
 2.pycorrector
